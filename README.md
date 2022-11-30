@@ -1,4 +1,4 @@
-Working as a data engineer at [@facultyai ](https://github.com/facultyai).
+Lead software engineer at [@facultyai ](https://github.com/facultyai).
 
 Maintaining [tomas-milata/intelliroutes](https://github.com/tomas-milata/intelliroutes), an IntelliJ plugin for Play 2 routes .
 
