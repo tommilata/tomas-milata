@@ -1,6 +1,6 @@
 Lead software engineer at [@facultyai ](https://github.com/facultyai).
 
-Maintaining [tomas-milata/intelliroutes](https://github.com/tomas-milata/intelliroutes), an IntelliJ plugin for Play 2 routes .
+Maintaining [tommilata/intelliroutes](https://github.com/tomas-milata/intelliroutes), an IntelliJ plugin for Play 2 routes .
 
 Find me on :
  - Twitter [@tommilata](https://twitter.com/tommilata)
