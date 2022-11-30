@@ -3,12 +3,12 @@ Working as a data engineer at [@facultyai ](https://github.com/facultyai).
 Maintaining [tomas-milata/intelliroutes](https://github.com/tomas-milata/intelliroutes), an IntelliJ plugin for Play 2 routes .
 
 Find me on :
- - Twitter: [@tomilata](https://twitter.com/tomilata)
- - [LinkedIn](https://www.linkedin.com/in/tomilata/)
- - [blog](https://tomas-milata.github.io)
+ - Twitter [@tommilata](https://twitter.com/tommilata)
+ - LinkedIn [@tommilata](https://www.linkedin.com/in/tommilata)
+ - blog at [tommilata.github.io](https://tommilata.github.io)
  
 <!--
-**tomas-milata/tomas-milata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tommilata/tommilata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
