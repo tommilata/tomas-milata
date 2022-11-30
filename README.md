@@ -3,7 +3,7 @@ Working as a data engineer at [@facultyai ](https://github.com/facultyai).
 Maintaining [tomas-milata/intelliroutes](https://github.com/tomas-milata/intelliroutes), an IntelliJ plugin for Play 2 routes .
 
 Find me on :
- - Twitter: [@tomilata](https://twitter.com/tomas_milata)
+ - Twitter: [@tomilata](https://twitter.com/tomilata)
  - [LinkedIn](https://www.linkedin.com/in/tomilata/)
  - [blog](https://tomas-milata.github.io)
  
